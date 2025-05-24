@@ -18,7 +18,7 @@
 
 # 📋  Certifications
 
-### Software Testing |  Param EduTech Pune | 2022
+### ✅ Software Testing |  Param EduTech Pune | 2022
 
  ☕ **Core Java** – OOPs, collections, exception handling, file handling
 
@@ -31,12 +31,12 @@
  🔄 **SDLC & STLC** – Full lifecycle understanding of software delivery
 
  🐞 **JIRA** – Bug tracking and Agile project management
+ 
+ 🤖 **End-to-End Automation** – From writing test cases to reporting results
 
  💻 **Git & GitHub** – Version control and collaborative testing projects
 
- ✅ **End-to-End Automation** – From writing test cases to reporting results
-
-### Project Management with JIRA |NSDC| 2025
+### ✅ Project Management with JIRA |NSDC| 2025
 
  📌 Managed **issue tracking** and **sprint planning**
 
